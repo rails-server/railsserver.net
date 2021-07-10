@@ -40,17 +40,17 @@ Free and paid pro version available. To download FileZilla [here.](https://filez
 `$ cd [yourapp]`
 >
 `$ rails generate controller Articles index` 
-
 # set up routes.
 Let's open config/routes.rb
-<pre><code>
-Rails.application.routes.draw do
-  root "articles#index"
+   
+    Rails.application.routes.draw do
+      root "articles#index"
 
-  get "/articles", to: "articles#index"
-end
-</pre></code>
+      get "/articles", to: "articles#index"
+    end
+ 
 # to run your app
+>
 `$ rails s -b 139.162.55.17`
 or to get it works on railsserver port 80
 >
