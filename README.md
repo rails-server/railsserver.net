@@ -55,10 +55,14 @@ Let's open config/routes.rb
 or to get it works on railsserver port 80
 >
 `$ rails s -b 139.162.55.17 -p 80`
+>
 
+## output:
+
+![Here Your Output App](/assets/railsserver_started.png  "You are on Rails")
+
+## Customize your app
 Ruby on Rails Guidest [rubyonrails](https://guides.rubyonrails.org/ "go to rubyonrails").
-
-
 ## Installing NGINX & Passenger
 `$ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 561F9B9CAC40B2F7`.
 >
