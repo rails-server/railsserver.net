@@ -1,5 +1,5 @@
-name: something
-title: null
+name: Rails Server
+title: Rails New App & Deployment.
 
 
 Rails Server | Create and deploy your rails app in a minute
