@@ -1,4 +1,5 @@
-
+name: something
+title: null
 
 
 Rails Server | Create and deploy your rails app in a minute
