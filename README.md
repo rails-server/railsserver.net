@@ -61,7 +61,7 @@ or to get it works on railsserver port 80
 
 ## output:
 
-![Here Your Output App](/assets/railsserver_started.png  "You are on Rails")
+![Here Your Output App](/assets/images/railsserver_started.png  "You are on Rails")
 
 ## Customize your app
 Ruby on Rails Guidest [rubyonrails](https://guides.rubyonrails.org/ "go to rubyonrails").
