@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Rails Server | Create and deploy your rails app in a minute
 
