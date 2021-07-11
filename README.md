@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <img src="assets/logo/logo.png" width="100">
 
 Rails Server | Create and deploy your rails app in a minute
